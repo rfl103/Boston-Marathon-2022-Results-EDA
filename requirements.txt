@@ -1,0 +1,6 @@
+streamlit
+pandas~=2.1.0
+numpy~=1.25.2
+altair<5
+plotly
+plotly-express
